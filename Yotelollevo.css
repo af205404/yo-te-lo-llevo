@@ -1,0 +1,47 @@
+{
+	margin: 0;
+	padding:0;
+	box-sizzing: ;
+}
+
+.Modifica-tu-registro {
+	position relative;
+	white:200px;
+	height:500px;
+	background: #adff2f;
+	padding:25px;
+	margin: 400px;
+	border: 5px solid yellow;
+	margin-top:100px;
+	border-radius:30px;
+	front-family: 'calibri';
+color: black;
+}
+
+.Modifica-tu-registro h4{
+	front-size: 22px;
+	margin-bottom: 20px;
+}
+
+.controls{
+	width: 95%;
+	background: #ffd700;
+	padding: 10px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	border: 1px solid  #ffd700;
+	front-family: 'calibri';
+	front-size: 18px;
+	
+}
+
+.man{
+	width:100%;
+	
+}
+.tit {
+	color: Black;
+	font-family:Franklin Gothic Heavy;
+text-align:center;
+	
+}
